@@ -46,3 +46,12 @@ Particularly, I am researching in following topics:
 - Feb. 2025
 
 
+<br/>
+
+# Projects
+---
+### Weakly Supervised Semantic Segmentation via Depth-guided Class Activation Map
+- Depth map guided weakly supervised semantic segmentation
+- **Keywords**: Weakly Supervised Semantic Segmentation, Class Activation Map
+
+### Weakly-Supervised Open-Vocabulary Semantic Segmentation using Key token selection
