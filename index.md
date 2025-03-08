@@ -3,24 +3,35 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+---
+Hi, I am Woonho Ko. I am a M.S. student at **Sungkyunkwan University**, majoring in Artificial Intelligence.
+
+I am working as an AI graduate researcher at **Machine Intelligence & Data Science (MIDAS) Lab**. \\
+at SKKU, advised by **Prof. Il Yong Chun**.
+
+Particularly, I am researching in following topics:
+#### 1. Video
+#### 2. Video Generation
+#### 3. Multi-modal AI
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+# Education
+---
+### Sungkyunkwan University
+* **M.S.** in Electrical Engineering Computer, Mar.2024 ~ Feb.2026 (expected)
+  * GPA: 4.5/4.5
+* **B.S.** in Electrical Engineering, Mar. 2018 ~ Feb. 2024
+  * GPA: 4.13/4.5 (Magna Cum Laude)
 
 <br/>
 
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+# Honors and Awards
+---
+### 2nd Place on Autonomous Driving SW Contest
+
+### Korea National Science and Technology Scholarship
+- Spring 2018, Fall 2018, Fall 2019, Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023 (7 semesters)
+
+### Dean's List, SKKU
+- Fall 2021, Fall 2022
