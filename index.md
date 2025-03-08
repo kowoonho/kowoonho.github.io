@@ -35,3 +35,14 @@ Particularly, I am researching in following topics:
 
 ### Dean's List, SKKU
 - Fall 2021, Fall 2022
+
+<br/>
+
+# Publications
+---
+### Autoregression-Free Video Prediction using Diffusion model for Mitigating Error propagation (<span style="color:red">Under Review</span>)
+- **Woonho Ko**, Jin Bok Park, Il Yong Chun
+- Keywords: Video Prediction, Diffusion models
+- Feb. 2025
+
+
