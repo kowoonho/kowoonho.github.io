@@ -1,6 +1,6 @@
 # Site settings
 title: Woonho Ko
-baseurl: "/ap"
+baseurl: ""
 url: "https://kowoonho.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
