@@ -59,7 +59,7 @@ Particularly, I am researching in following topics:
 
 - **Weakly-Supervised Semantic Segmentation via Depth-guided Class Activation Map**
   - CVML Lab, KAIST
-  - <ins>Code</ins>, <ins>Review</ins>
+  - <ins>[Code](https://github.com/kowoonho/voc_cam)</ins>, <ins>[Review](https://kowoonho.github.io/2023-08-21/WSSS)</ins>
   - Jul. 2023 ~ Aug. 2023
 
 - **Autonomous Driving SW Contest**
