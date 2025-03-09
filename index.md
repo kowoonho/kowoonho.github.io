@@ -64,7 +64,7 @@ Particularly, I am researching in following topics:
 
 - **Autonomous Driving SW Contest**
   - Role : SW Developer
-  - <ins>Code</ins>, <ins>Review</ins>
+  - <ins>[Our code](https://github.com/kowoonho/Autonomous-driving-contest)</ins>, <ins>[Review]()</ins>
   - Dec. 2022 ~ Feb. 2023
 
 <br/>
