@@ -7,7 +7,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Woonho Ko
-  desc: Hello nice to meet you
+  desc: Hello
   email: heesuk988@g.skku.edu
   selfie: assets/img/selfie.jpg
 
