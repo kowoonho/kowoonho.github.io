@@ -33,7 +33,7 @@ Particularly, I am researching in following topics:
 ---
 ### Autoregression-Free Video Prediction using Diffusion model for Mitigating Error propagation (<span style="color:red">Under Review</span>)
 - **Woonho Ko**, Jin Bok Park, Il Yong Chun
-  - <ins>Code (Coming Soon)</ins>, <ins>Paper (Coming Soon)</ins>, <ins>Review</ins>
+  - <ins>Code (Coming Soon)</ins>, <ins>Paper (Coming Soon)</ins>
   - Feb. 2025
 
 <br/>
@@ -59,12 +59,12 @@ Particularly, I am researching in following topics:
 
 - **Weakly-Supervised Semantic Segmentation via Depth-guided Class Activation Map**
   - CVML Lab, KAIST
-  - <ins>[Code](https://github.com/kowoonho/voc_cam)</ins>, <ins>[Review](https://kowoonho.github.io/2023-08-21/WSSS)</ins>
+  - <ins><a href="https://github.com/kowoonho/voc_cam" style="color: blue;">Code</a></ins>, <ins><a href="https://kowoonho.github.io/2023-08-21/WSSS" style="color: blue;">Review</a></ins>
   - Jul. 2023 ~ Aug. 2023
 
 - **Autonomous Driving SW Contest**
   - Role : SW Developer
-  - <ins>[Code](https://github.com/kowoonho/Autonomous-driving-contest)</ins>, <ins>[Review](https://kowoonho.github.io/2023-02-01/AD-contest)</ins>
+  - <ins><a href="https://github.com/kowoonho/Autonomous-driving-contest" style="color: blue;">Code</a></ins>, <ins><a href="https://kowoonho.github.io/2023-02-01/AD-contest" style="color: blue;">Review</a></ins>
   - Dec. 2022 ~ Feb. 2023
 
 <br/>

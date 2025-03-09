@@ -7,7 +7,7 @@ info: "Role : SW Developer"
 ## Abstract
 We designed an autonomous driving vehicle by modifying a toy car using Arduino and a PC. In the Autonomous Driving SW Contest, our performance was evaluated based on following missions: **1) Road following**, **2) Obstacle avoidance**, **3) Traffic light recognition**, and **4) Autonomous parking**.
 
-Leveraging Python and PyTorch, we developed an effective methodology to successfully complete aforementioned missions and achieved **<span style="color:red">2nd Place</span>** in the competition.
+Leveraging Python and PyTorch, we developed an effective methodology to successfully complete aforementioned missions and achieved **<span style="color:blue">2nd Place</span>** in the competition.
 
 
 
@@ -76,7 +76,7 @@ Leveraging Python and PyTorch, we developed an effective methodology to successf
 <br/>
 
 ## Results
-Our autonomous driving vehicle successfully completed all missions and achieved 2nd place in the competition. **<ins>[Our code](https://github.com/kowoonho/Autonomous-driving-contest)</ins>** provides detailed information about our project.
+Our autonomous driving vehicle successfully completed all missions and achieved 2nd place in the competition. <ins><a href="https://github.com/kowoonho/Autonomous-driving-contest" style="color: blue;">Our code</a></ins> provides detailed information about our project.
 
 <br/>
 
