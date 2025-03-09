@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Woonho Ko</title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
+  
+  <!-- Font Awesome -->
+  <link rel="stylesheet" type="text/css" href="/assets/css/fontawesome-all.min.css">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon.ico">
+
+  <!-- Google Analytics -->
+  
+
+</head>
+
+
+  <body>
+    <nav class="nav">
+      <div class="nav-container">
+        <a href="/">
+          <h2 class="nav-title">Woonho Ko</h2>
+        </a>
+        <ul>
+          <li><a href="/">About</a></li>
+          <li><a href="/projects/">Projects</a></li>
+        </ul>
+    </div>
+  </nav>
+
+    <main>
+      <div class="post">
+  <h2 class="post-title">Weakly-Supervised Semantic Segmentation via Depth-guided Class Activation Map</h2>
+  <div class="post-line"></div>
+
+  <h2 id="abstract">Abstract</h2>
+<p>Weakly-supervised semantic segmentation (WSSS) performs semantic segmentation using only class-level annotations, without requiring pixel-level labels. In WSSS, pseudo-labels generated from class activation maps (CAMs) are commonly used to train the model. Therefore, prior research has primarily focused on improving CAM quality to enhance segmentation performance.</p>
+
+<p>In this project, I identified that CAM-based segmentation struggles in two key scenarios: <strong>(1) small objects</strong> and <strong>(2) occluded objects</strong>, leading to suboptimal performance. To address these issues, I propose a <strong>depth map-guided cropping method</strong> to refine CAMs and improve segmentation accuracy.</p>
+
+<p><br /></p>
+
+<h2 id="problem-statement">Problem Statement</h2>
+
+<h4 id="1-small-objects">1. Small objects</h4>
+<ul>
+  <li>WSSS struggles to accurately segment small objects due to the global average pooling operation in the CAM generation process.</li>
+</ul>
+
+<p><img src="../assets/img/WSSS/small object.png" width="500px" /></p>
+
+<h4 id="2-occluded-objects">2. Occluded objects</h4>
+<ul>
+  <li>WSSS struggles to segment occluded objects because CAMs primarily rely on visible features, causing occluded regions to receive weak activation.</li>
+</ul>
+
+<p><img src="../assets/img/WSSS/occluded object.png" width="500px" /></p>
+
+<p><br /></p>
+
+<h2 id="method">Method</h2>
+<h4 id="1-depth-guided-cropping-method-for-cam-refinement">1. Depth-guided Cropping Method for CAM Refinement</h4>
+
+<ul>
+  <li>I proposed a depth-guided cropping method to refine CAMs by focusing on informative regions and excluding irrelevant areas. The depth map is used to crop the CAMs, enabling the model to concentrate on small objects or occluded objects and improve segmentation accuracy.</li>
+</ul>
+
+<p><img src="../assets/img/WSSS/depth crop cam.png" width="800px" /></p>
+
+<p><br /></p>
+
+<h2 id="results">Results</h2>
+<h4 id="1-qualitative-results">1. Qualitative Results</h4>
+<ul>
+  <li>The proposed method effectively segments small objects and occluded objects, demonstrating superior performance compared to the baseline method.</li>
+</ul>
+
+<p><img src="../assets/img/WSSS/qualitative results.png" width="800px" /></p>
+
+<h4 id="2-quantitative-results">2. Quantitative Results</h4>
+<ul>
+  <li>The proposed method outperforms the baseline method in terms of mIoU, demonstrating the effectiveness of the depth-guided cropping method.</li>
+</ul>
+
+<p><img src="../assets/img/WSSS/quantitative results.png" width="800px" /></p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>In this project, I proposed a depth-guided cropping method to refine CAMs for WSSS. The proposed method effectively segments small objects and occluded objects, demonstrating superior performance compared to the baseline method. The results suggest that the depth-guided cropping method can enhance segmentation accuracy in WSSS, providing a promising direction for future research.
+<strong><ins><a href="https://github.com/kowoonho/voc_cam">My code</a></ins></strong>  provides detailed implementation of the proposed method.</p>
+
+<p><br /></p>
+
+
+
+</div>
+
+<div class="pagination">
+  
+  
+    <a href="/2023-02-01/AD-contest" class="right next">Next</a>
+  
+
+  <a href="#" class="top">Top</a>
+</div>
+
+    </main>
+
+    <footer>
+      <span>
+        &copy; <time datetime="2025-03-09 22:33:54 +0900">2025</time> Woonho Ko. <a href="https://github.com/kssim/about-portfolio/">A.P</a> theme by kssim.
+      </span>
+    </footer>
+  </body>
+</html>
