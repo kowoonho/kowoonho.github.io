@@ -9,7 +9,7 @@ author:
   name: Woonho Ko
   desc: Hello nice to meet you
   email: heesuk988@g.skku.edu
-  selfie: jpg
+  selfie: assets/img/selfie.jpg
 
 # social
 social:
@@ -17,13 +17,13 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook:
   flickr:
-  github: kssim
+  github: https://github.com/kowoonho
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: https://www.linkedin.com/in/woonho-ko-73601b295/
   pinterest:
   reddit:
   soundcloud:
@@ -31,7 +31,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter:
   vimeo:
   wordpress:
   youtube:

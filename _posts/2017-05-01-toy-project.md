@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Toy Project"
+title:  "Example"
 info: "toy project"
 tech: "python"
 type: Toy 
 ---
 
-## Toy Project 1.
+## Example
 There is no specific form.  
 You can write what you want to write.  
 Since this markdown file is just displayed on the screen, you can create an image or format that matches the format you want.  

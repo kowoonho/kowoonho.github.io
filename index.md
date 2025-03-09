@@ -2,7 +2,7 @@
 layout: about 
 ---
 
-# About Me
+# About me
 ---
 Hi, I am Woonho Ko. I am a M.S. student at **Sungkyunkwan University**, majoring in Artificial Intelligence.
 
@@ -18,23 +18,14 @@ Particularly, I am researching in following topics:
 
 # Education
 ---
-### Sungkyunkwan University
-* **M.S.** in Electrical Engineering Computer, Mar.2024 ~ Feb.2026 (expected)
-  * GPA: 4.5/4.5
-* **B.S.** in Electrical Engineering, Mar. 2018 ~ Feb. 2024
-  * GPA: 4.13/4.5 (Magna Cum Laude)
+- M.S. in Electrical Engineering Computer, **SKKU**
+  - Mar. 2024 ~ Feb. 2026 (expected)
+  - GPA: 4.5/4.5
 
-<br/>
+- B.S. in Electrical Engineering & Mathematics (Double Major), **SKKU** 
+  - Mar. 2018 ~ Feb. 2024
+  - GPA: 4.13/4.5 (Magna Cum Laude)
 
-# Honors and Awards
----
-### 2nd Place on Autonomous Driving SW Contest
-
-### Korea National Science and Technology Scholarship
-- Spring 2018, Fall 2018, Fall 2019, Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023 (7 semesters)
-
-### Dean's List, SKKU
-- Fall 2021, Fall 2022
 
 <br/>
 
@@ -42,16 +33,58 @@ Particularly, I am researching in following topics:
 ---
 ### Autoregression-Free Video Prediction using Diffusion model for Mitigating Error propagation (<span style="color:red">Under Review</span>)
 - **Woonho Ko**, Jin Bok Park, Il Yong Chun
-- Keywords: Video Prediction, Diffusion models
-- Feb. 2025
+  - <ins>Code (Coming Soon)</ins>, <ins>Paper (Coming Soon)</ins>, <ins>Review</ins>
+  - Feb. 2025
 
+<br/>
+
+# Work Experiences
+---
+- **MIDAS Lab, SKKU** (Sep. 2023 ~ Feb. 2024)
+  - Undergraduate Research Student (Advisor: Prof. Il Yong Chun)
+  - Project: Open-Vocabulary Semantic Segmentation using Key token selection
+
+- **CVML Lab, KAIST** (Jul. 2023 ~ Aug. 2023)
+  - Undergraduate Research Student (Advisor: Prof. Hyunjung Shim)
+  - Project: Weakly-Supervised Semantic Segmentation via Depth-guided Class Activation Map
 
 <br/>
 
 # Projects
 ---
-### Weakly Supervised Semantic Segmentation via Depth-guided Class Activation Map
-- Depth map guided weakly supervised semantic segmentation
-- **Keywords**: Weakly Supervised Semantic Segmentation, Class Activation Map
+- **Open-Vocabulary Semantic Segmentation using Key token selection**
+  - MIDAS Lab, SKKU
+  - <ins>Code</ins>, <ins>Review</ins>
+  - Sep. 2023 ~ Feb. 2024
 
-### Weakly-Supervised Open-Vocabulary Semantic Segmentation using Key token selection
+- **Weakly-Supervised Semantic Segmentation via Depth-guided Class Activation Map**
+  - CVML Lab, KAIST
+  - <ins>Code</ins>, <ins>Review</ins>
+  - Jul. 2023 ~ Aug. 2023
+
+- **Autonomous Driving SW Contest**
+  - Role : SW Developer
+  - <ins>Code</ins>, <ins>Review</ins>
+  - Dec. 2022 ~ Feb. 2023
+
+<br/>
+
+
+# Honors and Awards
+---
+- **2nd Place on Autonomous Driving SW Contest**
+  - Host: Ministry of Trade, Industry and Energy
+  - Feb. 2023
+
+- **Korea National Science and Technology Scholarship**
+  - Spring 2018, Fall 2018, Fall 2019, Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023 (7 semesters)
+
+- **Dean's List, SKKU**
+  - Fall 2021, Fall 2022
+
+
+# Technical Skills
+---
+### Programming Languages
+- Python, C/C++
+- PyTorch, OpenCV
