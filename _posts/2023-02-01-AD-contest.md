@@ -9,6 +9,8 @@ We designed an autonomous driving vehicle by modifying a toy car using Arduino a
 
 Leveraging Python and PyTorch, we developed an effective methodology to successfully complete aforementioned missions and achieved **<span style="color:red">2nd Place</span>** in the competition.
 
+
+
 <br/>
 
 ## Method
