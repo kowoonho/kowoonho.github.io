@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Autonomous Driving SW Contest"
-info: "Role : SW Developer"
+info: Autonomous Driving, Object Detection, Autonomous Parking
 ---
 
 ## Abstract
