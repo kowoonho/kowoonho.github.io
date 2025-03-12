@@ -54,7 +54,7 @@ Particularly, I am researching in following topics:
 ---
 - **Open-Vocabulary Semantic Segmentation using Key token selection**
   - MIDAS Lab, SKKU
-  - <ins><a href="https://github.com/kowoonho/voc_cam" style="color: blue;">Code</a></ins>, <ins><a href="https://kowoonho.github.io/2023-08-21/WSSS" style="color: blue;">Review</a></ins>
+  - <ins><a href="https://github.com/kowoonho/OVSS" style="color: blue;">Code</a></ins>, <ins><a href="https://kowoonho.github.io/2024-02-20/OVSS" style="color: blue;">Review</a></ins>
   - Sep. 2023 ~ Feb. 2024
 
 - **Weakly-Supervised Semantic Segmentation via Depth-guided Class Activation Map**
