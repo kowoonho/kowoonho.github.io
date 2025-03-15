@@ -36,7 +36,7 @@ Particularly, I am researching in following topics:
   - <ins>Code (Coming Soon)</ins>, <ins>Paper (Coming Soon)</ins>
   - Feb. 2025 -->
 
-- **<span style="color:red">Under Review</span>**
+- **<span style="color:red">Under Review (Blind)</span>**
   - **Woonho Ko**, Jin Bok Park, Il Yong Chun
     - Keywords: Video Prediction, Diffusion Model
     - <ins>Code (Coming Soon)</ins>, <ins>Paper (Coming Soon)</ins>
@@ -47,11 +47,11 @@ Particularly, I am researching in following topics:
 # Work Experiences
 ---
 - **MIDAS Lab, SKKU** (Sep. 2023 ~ Feb. 2024)
-  - Undergraduate Research Student (Advisor: Prof. Il Yong Chun)
+  - Undergraduate Research intern (Advisor: Prof. Il Yong Chun)
   - Project: Open-Vocabulary Semantic Segmentation using Key token selection
 
 - **CVML Lab, KAIST** (Jul. 2023 ~ Aug. 2023)
-  - Undergraduate Research Student (Advisor: Prof. Hyunjung Shim)
+  - Undergraduate Research intern (Advisor: Prof. Hyunjung Shim)
   - Project: Weakly-Supervised Semantic Segmentation via Depth-guided Class Activation Map
 
 <br/>
