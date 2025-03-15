@@ -38,6 +38,7 @@ Particularly, I am researching in following topics:
 
 ### (<span style="color:red">Under Review</span>)
 - **Woonho Ko**, Jin Bok Park, Il Yong Chun
+  - Keywords: Video Prediction, Diffusion Model
   - <ins>Code (Coming Soon)</ins>, <ins>Paper (Coming Soon)</ins>
   - Feb. 2025
 
