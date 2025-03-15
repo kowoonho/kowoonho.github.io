@@ -36,7 +36,7 @@ Particularly, I am researching in following topics:
   - <ins>Code (Coming Soon)</ins>, <ins>Paper (Coming Soon)</ins>
   - Feb. 2025 -->
 
-- **<span style="color:red">Under Review (Blind)</span>**
+- **<span style="color:red">Under Review (Blind review)</span>**
   - **Woonho Ko**, Jin Bok Park, Il Yong Chun
     - Keywords: Video Prediction, Diffusion Model
     - <ins>Code (Coming Soon)</ins>, <ins>Paper (Coming Soon)</ins>
