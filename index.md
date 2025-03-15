@@ -31,10 +31,10 @@ Particularly, I am researching in following topics:
 
 # Publications
 ---
-### Autoregression-Free Video Prediction using Diffusion model for Mitigating Error propagation (<span style="color:red">Under Review</span>)
+<!-- ### Autoregression-Free Video Prediction using Diffusion model for Mitigating Error propagation (<span style="color:red">Under Review</span>)
 - **Woonho Ko**, Jin Bok Park, Il Yong Chun
   - <ins>Code (Coming Soon)</ins>, <ins>Paper (Coming Soon)</ins>
-  - Feb. 2025
+  - Feb. 2025 -->
 
 <br/>
 
@@ -87,4 +87,7 @@ Particularly, I am researching in following topics:
 ---
 ### Programming Languages
 - Python, C/C++
-- PyTorch, OpenCV
+- PyTorch, Tensorflow, OpenCV
+
+### OS & Tools
+- Linux, Git, Docker
