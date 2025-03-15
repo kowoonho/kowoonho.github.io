@@ -18,7 +18,7 @@ Particularly, I am researching in following topics:
 
 # Education
 ---
-- M.S. in Electrical Engineering Computer, **SKKU**
+- M.S. in Electrical and Computer Engineering, **SKKU**
   - Mar. 2024 ~ Feb. 2026 (expected)
   - GPA: 4.5/4.5
 
