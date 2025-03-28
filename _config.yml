@@ -35,6 +35,7 @@ social:
   vimeo:
   wordpress:
   youtube:
+  blog: https://velog.io/@kowoonho/posts
   default_txt: "Follow On"
 
 # Build settings
