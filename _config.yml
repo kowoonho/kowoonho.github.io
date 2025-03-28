@@ -17,7 +17,7 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: https://velog.io/@kowoonho/posts
+  facebook: 
   flickr:
   github: kowoonho
   google_plus:
@@ -35,6 +35,7 @@ social:
   vimeo:
   wordpress:
   youtube:
+  velog: https://velog.io/@kowoonho/posts
   default_txt: "Follow On"
 
 # Build settings

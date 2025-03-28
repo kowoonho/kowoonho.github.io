@@ -53,6 +53,17 @@
 </li>
 {% endif %}
 
+{% if site.social.velog %}
+<li>
+  <a href="{{ site.social.facebook }}" title="{{ site.social.default_txt }} Velog">
+    <span class="fa-stack fa-lg">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
+    </span>
+  </a>
+</li>
+{% endif %}
+
 {% if site.social.flickr %}
 <li>
   <a href="https://www.flickr.com/photos/{{ site.social.flickr }}" title="{{ site.social.default_txt }} Flickr">
