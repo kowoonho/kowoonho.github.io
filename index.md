@@ -4,7 +4,7 @@ layout: about
 
 # About me
 ---
-Hi, I am Woonho Ko. I am a M.S. student at **Sungkyunkwan University**, majoring in Artificial Intelligence.
+Hi, I am Woonho Ko. I am a M.S. student at **Sungkyunkwan University (SKKU)**, majoring in Artificial Intelligence.
 
 I am working as an AI graduate researcher at **Machine Intelligence & Data Science (MIDAS) Lab**. \\
 at SKKU, advised by **Prof. Il Yong Chun**.
@@ -21,6 +21,7 @@ Particularly, I am researching in following topics:
 - M.S. in Electrical and Computer Engineering, **SKKU**
   - Mar. 2024 ~ Feb. 2026 (expected)
   - GPA: 4.5/4.5
+  - Advisor: Prof. Il Yong Chun
 
 - B.S. in Electrical Engineering & Mathematics (Double Major), **SKKU** 
   - Mar. 2018 ~ Feb. 2024
@@ -44,7 +45,7 @@ Particularly, I am researching in following topics:
 
 <br/>
 
-# Work Experiences
+# Experiences
 ---
 - **MIDAS Lab, SKKU** (Sep. 2023 ~ Feb. 2024)
   - Undergraduate Research intern (Advisor: Prof. Il Yong Chun)
@@ -53,6 +54,7 @@ Particularly, I am researching in following topics:
 - **CVML Lab, KAIST** (Jul. 2023 ~ Aug. 2023)
   - Undergraduate Research intern (Advisor: Prof. Hyunjung Shim)
   - Project: Weakly-Supervised Semantic Segmentation via Depth-guided Class Activation Map
+
 
 <br/>
 
@@ -92,8 +94,7 @@ Particularly, I am researching in following topics:
 # Technical Skills
 ---
 ### Programming Languages
-- Python, C/C++
-- PyTorch, Tensorflow, OpenCV
+- Python, C/C++, Pytorch
 
-### OS & Tools
-- Linux, Git, Docker
+<!-- ### OS & Tools
+- Linux, Git, Docker -->
