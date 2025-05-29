@@ -37,11 +37,9 @@ Particularly, I am researching in following topics:
   - <ins>Code (Coming Soon)</ins>, <ins>Paper (Coming Soon)</ins>
   - Feb. 2025 -->
 
-- **<span style="color:red">Under Review (Blind review)</span>**
-  - **Woonho Ko**, Jin Bok Park, Il Yong Chun
-    - Keywords: Video Prediction, Diffusion Model
-    - <ins>Code (Coming Soon)</ins>, <ins>Paper (Coming Soon)</ins>
-    - Feb. 2025
+- **Autoregression-Free video prediction using diffusion model for mitigating error propagation**
+  - <u>Woonho Ko</u>, Jin Bok Park, Il Yong Chun
+    - **ICIP 2025**, <ins><a href="https://arxiv.org/abs/2505.22111" style="color: blue;">arXiv:2505.22111</a></ins>
 
 <br/>
 
@@ -81,7 +79,7 @@ Particularly, I am researching in following topics:
 # Honors and Awards
 ---
 - **2nd Place on Autonomous Driving SW Contest**
-  - Host: Ministry of Trade, Industry and Energy
+  - Hosted by MOTIE
   - Feb. 2023
 
 - **Korea National Science and Technology Scholarship**
